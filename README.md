@@ -1,4 +1,4 @@
-# pasty-go
+# pastygo
 A library for the API of Pasty
 
 ---
